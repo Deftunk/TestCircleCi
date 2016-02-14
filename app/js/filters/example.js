@@ -2,7 +2,6 @@ function ExampleFilter() {
 
   return function(input) {
     return input.replace(/keyboard/ig,'leopard');
-    
   };
 
 }
