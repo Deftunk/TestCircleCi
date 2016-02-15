@@ -63,7 +63,7 @@ export default {
 
   test: {
     karma: 'test/karma.conf.js',
-    //protractor: 'test/protractor.conf.js'
+    protractor: 'test/protractor.conf.js'
   },
 
   init: function() {
